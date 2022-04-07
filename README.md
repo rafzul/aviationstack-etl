@@ -1,5 +1,5 @@
 # aviationstack-etl
-Pipelines to process Aviationstack data from source till sink in BQ
+Pipelines to process Aviationstack data from source till sink in BQ. Kenapa pesawat, soalnya gw seneng pesawat wqwq
 
 Objective
 - Make basic analytics pipeline to get flight data from Aviationstack API til finally being shown in Tableau)
