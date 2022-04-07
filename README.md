@@ -22,7 +22,7 @@ Pipeline planning (Batch Processing):
 
 
 Backlog for future refinement:
-> Adding Spark for batch processing
-> Build kappa architecture
+- Adding Spark for batch processing
+- Build kappa architecture
   - Adding Kafka as the real-time layer and future sources for all needs (batching and streamings)
   - Put on another path to process the streaming data (analyze the need first)
