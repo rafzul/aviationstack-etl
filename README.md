@@ -1,5 +1,6 @@
 # aviationstack-etl
 Pipelines to process Aviationstack data from source till sink in BQ. Kenapa pesawat, soalnya gw seneng pesawat wqwq
+Edit: tahan cuy, ternyata API nya yg gratisan cuma bisa 100 record tiap bulan....susah buat belajar streaming
 
 Objective
 - Make basic analytics pipeline to get flight data from Aviationstack API til finally being shown in Tableau)
@@ -24,3 +25,5 @@ Backlog for future refinement:
 - Build kappa architecture
   - Adding Kafka as the real-time layer and future sources for all needs (batching and streamings)
   - Put on another path to process the streaming data (analyze the need first)
+
+
