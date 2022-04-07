@@ -15,10 +15,7 @@ Step (Batching)
 - Connect BigQuery to Tableau 
 
 Pipeline planning (Batch Processing):
-
-
-
-
+![Uploading image.png…]()
 
 
 Backlog for future refinement:
